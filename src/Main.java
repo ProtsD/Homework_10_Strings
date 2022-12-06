@@ -41,7 +41,7 @@ public class Main {
         String lastName = "Ivanov";
         String fullName = lastName + ' ' + firstName + ' ' + middleName;
         System.out.println("\nExercise 1");
-        System.out.println(fullName);
+        System.out.println("ФИО сотрудника — " + fullName);
 
         ////////////// Exercise 2 //////////////
         /*
